@@ -2,12 +2,13 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** Bradley Bravender
+- **CCID:** bsbraven
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+I used the lecture slides and https://www.w3schools.com/ to refresh myself on 
+abstract classes, interfaces, and inheritance.
 
 ## Verbal Collaboration
 
