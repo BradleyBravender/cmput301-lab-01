@@ -6,11 +6,11 @@ public abstract class Mood {
     Date moodDate;
 
     public Mood () {
-        this(new Date());
+        this.moodDate = new Date();
     }
 
     public Mood (Date date) {
-        Date moodDate = date;
+        this.moodDate = date;
     }
 
     public Date getDate() {
