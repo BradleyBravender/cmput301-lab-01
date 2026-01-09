@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** Bradley Bravender
-- **CCID:** bsbraven
+- **Full Name:** `Bradley Bravender`
+- **CCID:** `bsbraven`
 
 ## References and Resources
 
@@ -16,5 +16,5 @@ I used an LLM to debug an error I was facing with storing Pets in a generic Arra
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `student`    | `student` |
+| `Ben Hall`    | `bbhall` |
 | `<Add more>` | `<CCID>`  |
